@@ -11,7 +11,6 @@ Built with a focus on simplicity, clean UI, and smooth navigation.
 |--------------|--------------|----------------|
 | ![Home](./assets/screenshots/screenshot1.png) | ![List](./assets/screenshots/screenshot2.png) | ![Details](./assets/screenshots/screenshot3.png) |
 
-*(Save your screenshots in `assets/screenshots/` and update the file names as needed.)*
 
 ---
 
